@@ -11,7 +11,7 @@ This project allows users to **add books, borrow and return items, and manage li
 - Borrow and return books
 - Role-based users:
   - **Student** (can borrow only books)
-  - **Professor** (can borrow books)
+  - **Professor** (can borrow books and magazines)
 - Book availability tracking
 - Display all books in the library
 - Display borrowed items
